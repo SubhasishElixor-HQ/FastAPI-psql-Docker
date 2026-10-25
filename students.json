@@ -1,0 +1,51 @@
+{
+    "S001": {
+        "name": "Aarav Sharma",
+        "age": 25,
+        "course": "Django",
+        "marks": 100,
+        "email": "aarav1234@example.com"
+    },
+    "S002": {
+        "name": "Diya Patel",
+        "age": 21,
+        "email": "diya.patel@example.com",
+        "course": "Data Science",
+        "marks": 85
+    },
+    "S003": {
+        "name": "Rohan Verma",
+        "age": 19,
+        "email": "rohan.verma@example.com",
+        "course": "Python",
+        "marks": 67
+    },
+    "S004": {
+        "name": "Ananya Iyer",
+        "age": 22,
+        "email": "ananya.iyer@example.com",
+        "course": "Web Development",
+        "marks": 78
+    },
+    "S005": {
+        "name": "Kabir Singh",
+        "age": 20,
+        "email": "kabir.singh@example.com",
+        "course": "Data Science",
+        "marks": 54
+    },
+    "S006": {
+        "name": "Abhishek",
+        "age": 29,
+        "course": "Django",
+        "marks": 95,
+        "email": "abhishek@example.com"
+    },
+    "S007": {
+        "name": "Atharv",
+        "age": 24,
+        "course": "JAVA",
+        "marks": 88,
+        "email": "atharv@example.com"
+    }
+}
